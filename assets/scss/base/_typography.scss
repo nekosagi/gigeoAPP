@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap');
+
+body {
+    font-family: $myfont;
+}
+
+.profile__follower {
+    font-size: 14px;
+}
+
+ p {
+     font-weight: $thin;
+ }
+
+ h3 {
+    font-size: 22px;
+    font-weight: $semiBold;
+
+ }
+
+ h4 {
+     font-size: 18px;
+     font-weight: $semiBold;
+ }
+

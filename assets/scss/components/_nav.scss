@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 20px 0;
+
+    &__brand {
+        font-size: 30px;
+        font-weight: $semiBold;
+    }
+
+    &__supInd{
+        position: relative;
+        font-size: 10px;
+        font-weight: $regular;
+        top: -25px;
+        left: -5px;
+    }
+
+    &__lista {
+        list-style: none;
+        display: flex;
+    }
+}
+
